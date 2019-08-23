@@ -11,4 +11,4 @@ Waxaa loogu talagalay macallimiinta, ardada iyo qolo walbo oo danaysaa af Soomaa
 
 ### Kuma ayaa tahay?
 
-Magacayaga waxaa Axmed Cabdulqaadir, waxaan ahay arday iyo macallin. Waxaan leeyahay [blogg](sakiinlaq.github.com) ii khaas ah, waxaad igala xiriiri kartaa [emaylkan](sakiinlaq@gmail.com).
+Magacayaga waxaa Axmed Cabdulqaadir, waxaan ahay arday iyo macallin. Waxaan leeyahay [blogg](https://sakiinlaq.github.com) ii khaas ah, waxaad igala xiriiri kartaa [emaylkan](sakiinlaq@gmail.com).
