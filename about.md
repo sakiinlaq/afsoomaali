@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bogga waxaan kusoo bandhigayaa wixii la xariira barashada af Soomaaliga iyo wax ku barashada af Soomaaliga.
+### Yaa loogu talagalay bogga?
+Waxaa loogu talagalay macallimiinta, ardada iyo qolo walbo oo danaysaa af Soomaaliga
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Kuma ayaa tahay?
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Magacayaga waxaa Axmed Cabdulqaadir, waxaan ahay arday iyo macallin. Waxaan leeyahay [blogg](sakiinlaq.github.com) ii khaas ah, waxaad igala xiriiri kartaa [emaylkan](sakiinlaq@gmail.com).
