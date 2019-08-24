@@ -5,4 +5,8 @@ permalink: /afkahooyo/
 ---
 
 
-Waxaansa
+{% for buug in site.data.buugaag-manhaj %}
+{% if buug.maado=="af Soomaali" %}
+<h2> {{ buug.cinwaan }}
+
+{% endfor %}
