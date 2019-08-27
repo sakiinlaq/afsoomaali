@@ -13,3 +13,15 @@ permalink: /afkahooyo/
 
 {% endif %}
 {% endfor %}
+
+
+##  Xisaab
+{% for buug in site.data.buugaag-manhaj %}
+{% if buug.maado=="xisaab" %}
+<ul type="disc">
+<div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> <span class="sanad"> ({{ buug.sanad }}) </span><span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri </a> </span> </div>
+ </ul>
+
+{% endif %}
+{% endfor %}
+
