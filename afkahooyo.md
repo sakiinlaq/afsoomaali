@@ -10,7 +10,7 @@ permalink: /afkahooyo/
 <div class="xogtaGuud">
 
 <div class="cinwaan"> {{ buug.cinwaan }}</div> <span class="qoraa">{{ buug.qoraa }} </span>
- <div class="sanad"> {{ buug.sanad }} </div>
+ <div class="sanad"> ({{ buug.sanad }}) </div>
  <div class="warbixin"> {{ buug.handle }} </div>
  <div class="link"> {{ buug.pdf }} </div>
 </div>
