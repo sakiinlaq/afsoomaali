@@ -7,10 +7,15 @@ permalink: /afkahooyo/
 ## Af Soomaali
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="af Soomaali" %}
-<h2> {{ buug.cinwaan }}
-	Qoraa: {{ buug.qoraa }}
-	Sanad: {{ buug.sanad }}
-	Warbixin dheeri ah: {{ buug.handle }}
-	link: {{ pdf }}
+<div class="xogtaGuud">
+
+<div class="label"> Cinwaan:</div> <div class="cinwaan"> {{ buug.cinwaan }}</div>
+
+<div class="label"> Qoraa:</div> <div class="qoraa">	 {{ buug.qoraa }} </div>
+<div class="label"> Sanad:</div> <div class="sanad"> {{ buug.sanad }} </div>
+<div class="label"> Warbixin dheeri ah:</div> <div class="warbixin"> {{ buug.handle }} </div>
+<div class="label"> link:</div> <div class="link"> {{ buug.pdf }} </div>
+</div>
+
 {% endif %}
 {% endfor %}
