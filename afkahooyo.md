@@ -7,7 +7,7 @@ permalink: /afkahooyo/
 ### Af Soomaali
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="af Soomaali" %}
-<div class="buugiiba" type="disc">
+<div class="buugiiba" >
 
 <div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> <span class="sanad"> ({{ buug.sanad }}) </span> </div> 
 
@@ -23,7 +23,7 @@ permalink: /afkahooyo/
 ### Murti iyo Sheekooyin
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="sheeko" %}
-<div class="buugiiba" type="disc">
+<div class="buugiiba" >
 <div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> <span class="sanad"> ({{ buug.sanad }}) </span></div>
 
 <div class="qoraWarbixin">
@@ -38,7 +38,7 @@ permalink: /afkahooyo/
 ###  Xisaab
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="xisaab" %}
-<div class="buugiiba" type="disc">
+<div class="buugiiba" >
 <div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> <span class="sanad"> ({{ buug.sanad }}) </span></div>
 
 <div class="qoraWarbixin">
