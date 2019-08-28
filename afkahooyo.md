@@ -9,7 +9,7 @@ permalink: /afkahooyo/
 {% if buug.maado=="af Soomaali" %}
 <div class="buugiiba" >
 
-<div class="cinwaan"> {{ buug.cinwaan }} </div><span class="sanad"> ({{ buug.sanad }}) </span> <a href="{{ buug.pdf }}">pdf </a>  
+<div class="cinwaan"> {{ buug.cinwaan }} <span class="sanad"> ({{ buug.sanad }}) </span> <a href="{{ buug.pdf }}">pdf </a>  </div>
 
 <div class="qoraWarbixin">
 <span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> </div>
@@ -47,4 +47,3 @@ permalink: /afkahooyo/
 
 {% endif %}
 {% endfor %}
-
