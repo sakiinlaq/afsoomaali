@@ -8,7 +8,7 @@ permalink: /afkahooyo/
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="af Soomaali" %}
 <ul type="disc">
-<div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> <span class="sanad"> ({{ buug.sanad }}) </span><span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> </div>
+<div class="cinwaan"><a href="{{ buug.pdf }}"> {{ buug.cinwaan }} </a> </div><span class="sanad"> ({{ buug.sanad }}) </span><span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> 
  </ul>
 
 {% endif %}
