@@ -4,7 +4,7 @@ title: Afka hooyo
 permalink: /afkahooyo/
 ---
 
-## Af Soomaali
+### Af Soomaali
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="af Soomaali" %}
 <ul type="disc">
@@ -20,7 +20,7 @@ permalink: /afkahooyo/
 
 
 
-## Murti iyo Sheekooyin
+### Murti iyo Sheekooyin
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="sheeko" %}
 <ul type="disc">
@@ -35,7 +35,7 @@ permalink: /afkahooyo/
 
 
 
-##  Xisaab
+###  Xisaab
 {% for buug in site.data.buugaag-manhaj %}
 {% if buug.maado=="xisaab" %}
 <ul type="disc">
