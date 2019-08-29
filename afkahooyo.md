@@ -12,7 +12,7 @@ permalink: /afkahooyo/
 <div class="cinwaan"> {{ buug.cinwaan }} <span class="sanad"> ({{ buug.sanad }}) </span> <a href="{{ buug.pdf }}">pdf </a>  </div>
 
 <div class="qoraWarbixin">
-<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> </div>
+<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> handle </a> </span> </div>
 </div>
 
 {% endif %}
@@ -27,7 +27,7 @@ permalink: /afkahooyo/
 <div class="cinwaan"> {{ buug.cinwaan }} <span class="sanad"> ({{ buug.sanad }}) </span><a href="{{ buug.pdf }}"> pdf </a> </div>
 
 <div class="qoraWarbixin">
-<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> </div>
+<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> handle </a> </span> </div>
  </div>
 
 {% endif %}
@@ -42,7 +42,7 @@ permalink: /afkahooyo/
 <div class="cinwaan"> {{ buug.cinwaan }} <span class="sanad"> ({{ buug.sanad }}) </span> <a href="{{ buug.pdf }}">pdf</a> </div>
 
 <div class="qoraWarbixin">
-<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> Warbixin dheeri ah </a> </span> </div>
+<span class="qoraa">{{ buug.qoraa }} </span> <span class="warbixin"> <a href="{{ buug.handle }}"> handle </a> </span> </div>
  </div>
 
 {% endif %}
