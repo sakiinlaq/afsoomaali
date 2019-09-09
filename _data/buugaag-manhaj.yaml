@@ -30,7 +30,6 @@
   madbacad: Wakaaladda Madbacadda Dowladda
 
 
-
 - cinwaan: Xisaabta dugsiyada hoose. Buugga kowaad
   qoraa: Guddiga af Soomaaliga
   sanad: 1972
@@ -72,29 +71,6 @@
   magaalo: Muqdisho
   madbacad: Wakaaladda Madbacadda Dowladda
 
- - cinwaan: Norme per l'addestramento individuale al combattimento
-  qoraa: 
-  sanad: 1970
-  luqad: it
-  handle: http://hdl.handle.net/2307/5601
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/5601/1/Norme per l'addestramento individuale al combattimento.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: L'opera della Società agricola italo somala in Somalia. Significato e valore delle realizzazioni, delle esperienze e degli studi compiuti dalla S.A.I.S. nei suoi 44 anni di vita
-  qoraa: Società agricola italo somala
-  sanad: 1970
-  luqad: it
-  handle: http://hdl.handle.net/2307/3366
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/3366/1/L'opera della Società agricola italo somala in Somalia. Significato e valore delle realizzazioni, delle esperienze e degli studi compiuti dalla S.A.I.S. nei suoi 44 anni di vita.pdf
-  magaalo: Milano
-
-- cinwaan: L'opera di avvaloramento agricolo e zootecnico in Eritrea, in Somalia e in Etiopia
-  qoraa: Bologna, L. M.Conforti, A.Chiuderi, E.Rocchetti, G.
-  sanad: 1970
-  luqad: it
-  handle: http://hdl.handle.net/2307/4821
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4821/1/L'opera di avvaloramento agricolo e zootecnico in Eritrea, in Somalia e in Etiopia.pdf
-  magaalo: Roma
 
 - cinwaan: A Tree for Poverty. Somali Poetry and Prose
   qoraa: 
@@ -104,7 +80,7 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/2748/1/A Tree for Poverty. Somali Poetry and Prose.pdf
   magaalo: Shannon, Ireland
 
-- cinwaan: Ma sugto meher maleh: qiso jacayl ah
+- cinwaan: Ma sugto meher maleh; qiso jacayl ah
   qoraa: Maxamed Caynaanshe Cawedshire
   sanad: 1970
   luqad: so
@@ -139,7 +115,8 @@
 - cinwaan: Xisaabta dugsiyada dadka waaweyn. Buugga I
   qoraa: 
   sanad: 1971
-  luqad: 
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/4441
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4441/1/Xisaabta dugsiyada dadka waaweyn. Buugga I.pdf
   magaalo: Mogadiscio
@@ -171,7 +148,8 @@
 - cinwaan: Xisaabta dugsiyada hoose. Buugga labaad
   qoraa: 
   sanad: 1972
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/4430
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4430/1/Xisaabta dugsiyada hoose. Buugga labaad.pdf
   magaalo: Mogadiscio
@@ -227,7 +205,8 @@
 - cinwaan: Xisaabta dugsiyada hoose. Buugga afaraad
   qoraa: 
   sanad: 1972
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/4431
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4431/1/Xisaabta dugsiyada hoose. Buugga afaraad.pdf
   magaalo: Mogadiscio
@@ -235,7 +214,8 @@
 - cinwaan: Xisaabta dugsiyada hoose. Buugga saddexaad
   qoraa: 
   sanad: 1972
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/4432
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4432/1/Xisaabta dugsiyada hoose. Buugga saddexaad.pdf
   magaalo: Mogadiscio
@@ -243,7 +223,8 @@
 - cinwaan: Xisaabta dugsiyada hoose. Buugga kowaad
   qoraa: 
   sanad: 1972
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/4419
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4419/1/Xisaabta dugsiyada hoose. Buugga kowaad.pdf
   magaalo: Mogadiscio
@@ -408,7 +389,7 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/849/1/Geeddiga wadaay!.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Buugga juqraafiga: dugsiyada hoose
+- cinwaan: Buugga juqraafiga; dugsiyada hoose
   qoraa: 
   sanad: 1974
   luqad: so
@@ -416,37 +397,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4253/1/Buugga juqraafiga: dugsiyada hoose.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Af Soomaali. Grammatica della lingua somala con piccolo vocabolario in appendice
-  qoraa: Panza, Bruno
-  sanad: 1974
-  luqad: itso
-  handle: http://hdl.handle.net/2307/4497
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4497/1/Af Soomaali. Grammatica della lingua somala con piccolo vocabolario in appendice.pdf
-  magaalo: Firenze
-
-- cinwaan: The Modern English-Somali Phrase Book. A tourist handbook
-  qoraa: Axmed F. Ali "Idaajaa"Omar Au Nuh
-  sanad: 1974
-  luqad: enso
-  handle: http://hdl.handle.net/2307/2488
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/2488/1/The Modern English-Somali Phrase Book. A tourist handbook.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: Aasaaska Aqoonta Caafimaadka
-  qoraa: 
-  sanad: 1974
-  luqad: so
-  handle: http://hdl.handle.net/2307/908
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/908/1/Aasaaska Aqoonta Caafimaadka.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: Heellooy heelleellooy. The development of the genre Heello in Modern Somali Poetry
-  qoraa: Johnson, John William
-  sanad: 1974
-  luqad: en
-  handle: http://hdl.handle.net/2307/2544
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/2544/1/Heellooy heelleellooy. The development of the genre Heello in Modern Somali Poetry.pdf
-  magaalo: Bloomington
 
 - cinwaan: Buugga makiinadda-farta Somaliga
   qoraa: 
@@ -464,21 +414,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/4252/1/Buugga farbarashada reer miyiga: wax baro waxna beero.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Maahmaahaa saddexshub. Carabi-Ingiriisi-Soomaali
-  qoraa: 
-  sanad: 1974
-  luqad: ensoother
-  handle: http://hdl.handle.net/2307/794
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/794/1/Maahmaahaa saddexshub. Carabi-Ingiriisi-Soomaali.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: Ismaaciil Mire
-  qoraa: Axmed F. Cali "Idaajaa"
-  sanad: 1974
-  luqad: so
-  handle: http://hdl.handle.net/2307/782
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/782/1/Ismaaciil Mire.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: The Writing of the Somali Language. A Great Landmark in Our Revolutionary History
   qoraa: 
@@ -488,29 +423,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/5661/1/The Writing of the Somali Language. A Great Landmark in Our Revolutionary History.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Diiwaanka Gabayadii. Siyaad Maxamad Cabdulle Xasan. Uruurintii Koowaad
-  qoraa: 
-  sanad: 1974
-  luqad: so
-  handle: http://hdl.handle.net/2307/2051
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/2051/1/Diiwaanka Gabayadii. Siyaad Maxamad Cabdulle Xasan. Uruurintii Koowaad.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: Kacaan
-  qoraa: 
-  sanad: 1974
-  luqad: so
-  handle: http://hdl.handle.net/2307/2130
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/2130/1/Kacaan.pdf
-  magaalo: Mogadiscio
-
-- cinwaan: The portion of Somali territory under Ethiopian colonization
-  qoraa: 
-  sanad: 1974
-  luqad: en
-  handle: http://hdl.handle.net/2307/4835
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4835/1/The portion of Somali territory under Ethiopian colonization.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Adduunyo waa sheeko iyo shaahid
   qoraa: Xasan Yaaquub "Baabraqiis"
@@ -520,13 +432,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/839/1/Adduunyo waa sheeko iyo shaahid.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Somalie
-  qoraa: FilippiPaquier
-  sanad: Jun-1974
-  luqad: fr
-  handle: http://hdl.handle.net/2307/3489
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/3489/1/Somalie.pdf
-  magaalo: 
 
 - cinwaan: Buugga Reer-miyiga I. Akhri, fakar, qor, fal.
   qoraa: 
@@ -536,13 +441,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/2600/1/Buugga Reer-miyiga I. Akhri, fakar, qor, fal..pdf
   magaalo: Mogadiscio
 
-- cinwaan: Buugga reerguuraaga
-  qoraa: 
-  sanad: Jul-1974
-  luqad: so
-  handle: http://hdl.handle.net/2307/4255
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4255/1/Buugga reerguuraaga.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Af Soomaali. Fasalka Afaraad 4
   qoraa: 
@@ -555,7 +453,8 @@
 - cinwaan: Xisaab. Fasalka Labaad 2
   qoraa: 
   sanad: 1975
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/878
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/878/1/Xisaab. Fasalka Labaad 2.pdf
   magaalo: Mogadiscio
@@ -571,7 +470,8 @@
 - cinwaan: Xisaab. Fasalka Saddexaad 3
   qoraa: 
   sanad: 1975
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/884
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/884/1/Xisaab. Fasalka Saddexaad 3.pdf
   magaalo: Mogadiscio
@@ -584,18 +484,12 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/5301/1/Juba River Valley Development Study. Vol. I: Summary Report.pdf
   magaalo: 
 
-- cinwaan: Juba River Valley Development Study. Vol. II: Human and Social Environment
-  qoraa: Technital S.p.A.
-  sanad: 1975
-  luqad: en
-  handle: http://hdl.handle.net/2307/5316
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/5316/1/Juba River Valley Development Study. Vol. II: Human and Social Environment.pdf
-  magaalo: 
 
 - cinwaan: Xisaab - Fasalka Shanaad 5
   qoraa: 
   sanad: 1975
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/835
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/835/1/Xisaab - Fasalka Shanaad 5.pdf
   magaalo: Mogadiscio
@@ -603,7 +497,8 @@
 - cinwaan: Xisaab. Fasalka Labaad 2. Tilmaame Bare
   qoraa: 
   sanad: 1975
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/780
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/780/1/Xisaab. Fasalka Labaad 2. Tilmaame Bare.pdf
   magaalo: Mogadiscio
@@ -664,21 +559,7 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/892/1/Saynis. Fasalka Labaad 2. Tilmaame Bare.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Dabkuu shiday Darwiishkii (daraama)
-  qoraa: Axmed F. Cali "Idaajaa"Cabdulqaadir Xirsi "Yamyan"
-  sanad: 1975
-  luqad: so
-  handle: http://hdl.handle.net/2307/894
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/894/1/Dabkuu shiday Darwiishkii (daraama).pdf
-  magaalo: Mogadiscio
 
-- cinwaan: Somalia
-  qoraa: 
-  sanad: 1975
-  luqad: it
-  handle: http://hdl.handle.net/2307/5678
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/5678/1/Somalia.pdf
-  magaalo: Roma
 
 - cinwaan: Saynis. Fasalka Saddexaad 3
   qoraa: 
@@ -688,45 +569,17 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/906/1/Saynis. Fasalka Saddexaad 3.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Kalluunka
-  qoraa: 
-  sanad: 1975
-  luqad: so
-  handle: http://hdl.handle.net/2307/4341
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4341/1/Kalluunka.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Xisaab Fasalka kowaad. Tilmaame bare.
   qoraa: 
   sanad: 1975
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/1610
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/1610/1/Xisaab Fasalka kowaad. Tilmaame bare..pdf
   magaalo: Mogadiscio
 
-- cinwaan: Juba River Valley Development Study. Vol. III: Geology, Hydrology and Hydraulic Engineering
-  qoraa: Technital S.p.A.
-  sanad: 1975
-  luqad: en
-  handle: http://hdl.handle.net/2307/5317
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/5317/1/Juba River Valley Development Study. Vol. III: Geology, Hydrology and Hydraulic Engineering.pdf
-  magaalo: 
 
-- cinwaan: Historical Dictionary of Somalia
-  qoraa: Castagno, Margaret
-  sanad: 1975
-  luqad: en
-  handle: http://hdl.handle.net/2307/2183
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/2183/1/Historical Dictionary of Somalia.pdf
-  magaalo: United States of America
-
-- cinwaan: Warbixntii Aqoonisweeydaarsiga Beelaha Danwadaarta Beeraleyda K/waarrey, Sablaale, Dujuuma
-  qoraa: 
-  sanad: 30-Sep-1975
-  luqad: so
-  handle: http://hdl.handle.net/2307/4490
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4490/1/Warbixntii Aqoonisweeydaarsiga Beelaha Danwadaarta Beeraleyda K/waarrey, Sablaale, Dujuuma.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Ma dhabba jacayl waa loo dhintaa? Cilmi Boodhari iyo Hodon
   qoraa: Rashiid Moxamed Shabeele
@@ -768,18 +621,12 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/927/1/Fisigis. Fasalka Koowaad 1. Dugsiga sare.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Hantiwadaagga cilmiga ah. Heerka koowaad
-  qoraa: Axmed Maxamed Maxamuud (Canshuur)
-  sanad: 1976
-  luqad: so
-  handle: http://hdl.handle.net/2307/910
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/910/1/Hantiwadaagga cilmiga ah. Heerka koowaad.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Xisaab. Fasalka Seddexaad 3. Timaame Bare
   qoraa: 
   sanad: 1976
-  luqad: so
+  luqad: Soomaali
+  maado: xisaab
   handle: http://hdl.handle.net/2307/918
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/918/1/Xisaab. Fasalka Seddexaad 3. Timaame Bare.pdf
   magaalo: Mogadiscio
@@ -816,13 +663,6 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/886/1/Barashada bilowga hantiwadaagga cilmiga ah.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Arrimaha naqshadda iyo cilmiga magaalooyinka
-  qoraa: Arecchi, Alberto
-  sanad: 1976
-  luqad: it
-  handle: http://hdl.handle.net/2307/4694
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/4694/1/Arrimaha naqshadda iyo cilmiga magaalooyinka.pdf
-  magaalo: Mogadiscio
 
 - cinwaan: Saynis. Fasalka Kowaad 1
   qoraa: 
