@@ -450,14 +450,14 @@
   pdf: http://dspace-roma3.caspur.it/bitstream/2307/835/1/Xisaab - Fasalka Shanaad 5.pdf
   magaalo: Mogadiscio
 
-- cinwaan: Xisaab Fasalka Labaad 2 Tilmaame Bare
-  qoraa: 
-  sanad: 1975
-  luqad: Soomaali
-  maado: xisaab
-  handle: http://hdl.handle.net/2307/780
-  pdf: http://dspace-roma3.caspur.it/bitstream/2307/780/1/Xisaab. Fasalka Labaad 2. Tilmaame Bare.pdf
-  magaalo: Mogadiscio
+# - cinwaan: Xisaab Fasalka Labaad 2 Tilmaame Bare
+#   qoraa: 
+#   sanad: 1975
+#   luqad: Soomaali
+#   maado: xisaab
+#   handle: http://hdl.handle.net/2307/780
+#   pdf: "http://dspace-roma3.caspur.it/bitstream/2307/780/1/Xisaab. Fasalka Labaad 2. Tilmaame Bare.pdf"
+#   magaalo: Mogadiscio
 
   - cinwaan: "Barbaarinta iyo cilmiga beesha - Fasalka Koowaad 1"
   qoraa: 
