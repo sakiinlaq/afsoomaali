@@ -1,0 +1,232 @@
+- cinwaan: Barbaarinta iyo cilmiga beesha - Fasalka Koowaad 1
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/816
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/816/1/Barbaarinta iyo cilmiga beesha - Fasalka Koowaad 1.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Juqraafi. Fasalka Afraad 4
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/824
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/824/1/Juqraafi. Fasalka Afraad 4.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Juqraafiga. Fasalka Labaad ee Dugsiga Hoose 2
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/826
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/826/1/Juqraafiga. Fasalka Labaad ee Dugsiga Hoose 2.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Juqraafi. Fasalka Saddexaad 3
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/828
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/828/1/Juqraafi. Fasalka Saddexaad 3.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Saynis. Fasalka Kowaad 1. Tilmaame Bare
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/872
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/872/1/Saynis. Fasalka Kowaad 1. Tilmaame Bare.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Saynis. Fasalka Labaad 2. Tilmaame Bare
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/892
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/892/1/Saynis. Fasalka Labaad 2. Tilmaame Bare.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Dabkuu shiday Darwiishkii (daraama)
+	qoraa: Axmed F. Cali "Idaajaa"Cabdulqaadir Xirsi "Yamyan"
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/894
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/894/1/Dabkuu shiday Darwiishkii (daraama).pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Somalia
+	qoraa: 
+	sanad: 1975
+	luqad: it
+	handle: http://hdl.handle.net/2307/5678
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/5678/1/Somalia.pdf
+	magaalo: Roma
+
+- cinwaan: Saynis. Fasalka Saddexaad 3
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/906
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/906/1/Saynis. Fasalka Saddexaad 3.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Kalluunka
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/4341
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/4341/1/Kalluunka.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Xisaab Fasalka kowaad. Tilmaame bare.
+	qoraa: 
+	sanad: 1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/1610
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/1610/1/Xisaab Fasalka kowaad. Tilmaame bare..pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Juba River Valley Development Study. Vol. III: Geology, Hydrology and Hydraulic Engineering
+	qoraa: Technital S.p.A.
+	sanad: 1975
+	luqad: en
+	handle: http://hdl.handle.net/2307/5317
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/5317/1/Juba River Valley Development Study. Vol. III: Geology, Hydrology and Hydraulic Engineering.pdf
+	magaalo: 
+
+- cinwaan: Historical Dictionary of Somalia
+	qoraa: Castagno, Margaret
+	sanad: 1975
+	luqad: en
+	handle: http://hdl.handle.net/2307/2183
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/2183/1/Historical Dictionary of Somalia.pdf
+	magaalo: United States of America
+
+- cinwaan: Warbixntii Aqoonisweeydaarsiga Beelaha Danwadaarta Beeraleyda K/waarrey, Sablaale, Dujuuma
+	qoraa: 
+	sanad: 30-Sep-1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/4490
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/4490/1/Warbixntii Aqoonisweeydaarsiga Beelaha Danwadaarta Beeraleyda K/waarrey, Sablaale, Dujuuma.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Ma dhabba jacayl waa loo dhintaa? Cilmi Boodhari iyo Hodon
+	qoraa: Rashiid Moxamed Shabeele
+	sanad: Oct-1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/909
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/909/1/Ma dhabba jacayl waa loo dhintaa? Cilmi Boodhari iyo Hodon.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Qalabka Farsamada Gacanta
+	qoraa: Maxamuud Jimaan Aaden
+	sanad: Dec-1975
+	luqad: so
+	handle: http://hdl.handle.net/2307/873
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/873/1/Qalabka Farsamada Gacanta.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Bayoolaji. Dugsiga Sare.  Fasalka Afraad 4
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/4201
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/4201/1/Bayoolaji. Dugsiga Sare.  Fasalka Afraad 4.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Bisaddii Bubaysta
+	qoraa: Henty, George AlfredXasan aw Daahir Qaalib
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/4202
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/4202/1/Bisaddii Bubaysta.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Fisigis. Fasalka Koowaad 1. Dugsiga sare
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/927
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/927/1/Fisigis. Fasalka Koowaad 1. Dugsiga sare.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Hantiwadaagga cilmiga ah. Heerka koowaad
+	qoraa: Axmed Maxamed Maxamuud (Canshuur)
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/910
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/910/1/Hantiwadaagga cilmiga ah. Heerka koowaad.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Xisaab. Fasalka Seddexaad 3. Timaame Bare
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/918
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/918/1/Xisaab. Fasalka Seddexaad 3. Timaame Bare.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Barbaarinta iyo cilmiga beesha. Fasalka kowaad. Dugsiga sare
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/900
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/900/1/Barbaarinta iyo cilmiga beesha. Fasalka kowaad. Dugsiga sare.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Juqraafi. Dugsiga Sare. Fasalka Kowaad 1
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/893
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/893/1/Juqraafi. Dugsiga Sare. Fasalka Kowaad 1.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Taariikh. Dugsiga Sare. Fasalka Kowaad.
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/889
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/889/1/Taariikh. Dugsiga Sare. Fasalka Kowaad..pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Barashada bilowga hantiwadaagga cilmiga ah
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/886
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/886/1/Barashada bilowga hantiwadaagga cilmiga ah.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Arrimaha naqshadda iyo cilmiga magaalooyinka
+	qoraa: Arecchi, Alberto
+	sanad: 1976
+	luqad: it
+	handle: http://hdl.handle.net/2307/4694
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/4694/1/Arrimaha naqshadda iyo cilmiga magaalooyinka.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Saynis. Fasalka Kowaad 1
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/863
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/863/1/Saynis. Fasalka Kowaad 1.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Saynis. Fasalka Afaraad 4
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/862
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/862/1/Saynis. Fasalka Afaraad 4.pdf
+	magaalo: Mogadiscio
+
+- cinwaan: Barbaarinta iyo cilmiga beesha - Fasalka Afraad 4
+	qoraa: 
+	sanad: 1976
+	luqad: so
+	handle: http://hdl.handle.net/2307/817
+	pdf: http://dspace-roma3.caspur.it/bitstream/2307/817/1/Barbaarinta iyo cilmiga beesha - Fasalka Afraad 4.pdf
+	magaalo: Mogadiscio
+
